@@ -1,0 +1,12 @@
+n=input('enter no1')
+m=input('enter no2')
+n=int(n)
+m=int(m)
+add=n+m
+sub=n-m
+mul=n*m
+div=n/m
+print('addition=',add)
+print('substraction=',sub)
+print('multiplication=',mul)
+print('division=',div)
